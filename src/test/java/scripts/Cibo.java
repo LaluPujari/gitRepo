@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class Cibo {
 	
 	
-	//master to local 
+	//loacl to master
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
